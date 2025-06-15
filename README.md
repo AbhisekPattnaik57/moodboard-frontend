@@ -23,5 +23,5 @@ This is the frontend of the MoodBoard application built using React.js. It allow
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/moodboard-frontend.git
+git clone  https://github.com/AbhisekPattnaik57/moodboard-frontend.git
 cd moodboard-frontend
